@@ -2,13 +2,13 @@
 
 A sports performance and strength training service specifically designed for football players. The focus is on physical conditioning, muscle strengthening, and athletic development tailored to the unique demands of football. The brand likely emphasizes power, speed, and competitive edge for players looking to elevate their game.
 
-Source: https://next-level-football-42ed9b05.zappy5.app
+Source: https://example.com
 
 ---
 
 ## שדרג את המשחק שלך עם אימון אישי — Next Level Football
 
-URL: https://next-level-football-42ed9b05.zappy5.app
+URL: https://example.com
 Description: הפוך לשחקן כדורגל חזק ומהיר יותר עם שיטת אימון ייחודית המותאמת לדרישות המגרש. כוח, מהירות ויתרון תחרותי מחכים לך. קבע אימון ניסיון עוד היום.
 
 שדרג את המשחק שלך עם אימון אישי — Next Level Football
@@ -473,7 +473,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## תוכניות אימון מנצחות לשחקני כדורגל — Next Level Football
 
-URL: https://next-level-football-42ed9b05.zappy5.app/training-programs
+URL: https://example.com/training-programs
 Description: גלה תוכניות אימון מותאמות אישית לשחקני כדורגל, ממוקדות בפיתוח כוח מתפרץ, זריזות וסיבולת. בנה את הגוף שייתן לך את היתרון על המגרש. הצטרף עכשיו.
 
 תוכניות אימון מנצחות לשחקני כדורגל — Next Level Football
@@ -979,7 +979,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## המאמן שידחוף אותך לקצה היכולת — Next Level Football
 
-URL: https://next-level-football-42ed9b05.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את המאמן מאחורי Next Level Football – מומחה באימוני ביצועים לכדורגל עם גישה ייחודית לחיזוק הגוף והנפש. בואו לשמוע איך נבנה יחד העתיד הספורטיבי שלך.
 
 המאמן שידחוף אותך לקצה היכולת — Next Level Football
@@ -1382,7 +1382,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## מהירות, כוח, ניצחון: הסיפורים מאחורי ההצלחה — Next Level Football
 
-URL: https://next-level-football-42ed9b05.zappy5.app/results-stories
+URL: https://example.com/results-stories
 Description: שחקני כדורגל מספרים על המהפך שעברו עם Next Level Football – משיפור מהירות ועד לחיזוק ביטחון עצמי על המגרש. קרא את הסיפורים וקבל השראה להתחיל גם אתה.
 
 מהירות, כוח, ניצחון: הסיפורים מאחורי ההצלחה — Next Level Football
@@ -1865,7 +1865,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## צור קשר והתחל את המסע שלך לצמרת — Next Level Football
 
-URL: https://next-level-football-42ed9b05.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכן לקחת את המשחק שלך לשלב הבא? צור קשר עם Next Level Football עוד היום וקבל ייעוץ ראשוני ללא עלות. ההזדמנות שלך לפרוץ קדימה מתחילה כאן.
 
 צור קשר והתחל את המסע שלך לצמרת — Next Level Football
@@ -2342,7 +2342,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## מוצרים
 
-URL: https://next-level-football-42ed9b05.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Next Level Football
 
 מוצרים - Next Level Football
@@ -2600,7 +2600,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## עגלת קניות
 
-URL: https://next-level-football-42ed9b05.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Next Level Football
@@ -2834,7 +2834,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## תשלום
 
-URL: https://next-level-football-42ed9b05.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Next Level Football
@@ -3254,7 +3254,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## התחברות
 
-URL: https://next-level-football-42ed9b05.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Next Level Football
@@ -3495,7 +3495,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## החשבון שלי
 
-URL: https://next-level-football-42ed9b05.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Next Level Football
@@ -3891,7 +3891,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## ההזמנה התקבלה!
 
-URL: https://next-level-football-42ed9b05.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Next Level Football
@@ -4149,7 +4149,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## מדיניות החזרות
 
-URL: https://next-level-football-42ed9b05.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Next Level Football
@@ -4436,7 +4436,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## פרטי המוצר
 
-URL: https://next-level-football-42ed9b05.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Next Level Football
 
 פרטי המוצר - Next Level Football
@@ -4672,7 +4672,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## מוצרים
 
-URL: https://next-level-football-42ed9b05.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Next Level Football
 
 מוצרים - Next Level Football
@@ -4932,7 +4932,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## מדיניות פרטיות
 
-URL: https://next-level-football-42ed9b05.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5210,7 +5210,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## הצהרת נגישות
 
-URL: https://next-level-football-42ed9b05.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5497,7 +5497,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## תנאי שימוש
 
-URL: https://next-level-football-42ed9b05.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5803,7 +5803,7 @@ Next Level Football – אימוני כוח וביצועים לשחקני כדו
 
 ## תודה רבה | Next Level Football
 
-URL: https://next-level-football-42ed9b05.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: הודעתך התקבלה בהצלחה. צוות Next Level Football יחזור אליך בהקדם האפשרי.
 
 תודה רבה | Next Level Football

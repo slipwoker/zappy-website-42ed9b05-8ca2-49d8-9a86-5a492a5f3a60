@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://next-level-football-42ed9b05.zappy5.app
+https://example.com
 הפוך לשחקן כדורגל חזק ומהיר יותר עם שיטת אימון ייחודית המותאמת לדרישות המגרש. כוח, מהירות ויתרון תחרותי מחכים לך. קבע אימון ניסיון עוד היום.
 
 ### תוכניות אימון
-https://next-level-football-42ed9b05.zappy5.app/training-programs
+https://example.com/training-programs
 גלה תוכניות אימון מותאמות אישית לשחקני כדורגל, ממוקדות בפיתוח כוח מתפרץ, זריזות וסיבולת. בנה את הגוף שייתן לך את היתרון על המגרש. הצטרף עכשיו.
 
 ### אודות המאמן
-https://next-level-football-42ed9b05.zappy5.app/about
+https://example.com/about
 הכירו את המאמן מאחורי Next Level Football – מומחה באימוני ביצועים לכדורגל עם גישה ייחודית לחיזוק הגוף והנפש. בואו לשמוע איך נבנה יחד העתיד הספורטיבי שלך.
 
 ### תוצאות וסיפורים
-https://next-level-football-42ed9b05.zappy5.app/results-stories
+https://example.com/results-stories
 שחקני כדורגל מספרים על המהפך שעברו עם Next Level Football – משיפור מהירות ועד לחיזוק ביטחון עצמי על המגרש. קרא את הסיפורים וקבל השראה להתחיל גם אתה.
 
 ### צור קשר
-https://next-level-football-42ed9b05.zappy5.app/contact
+https://example.com/contact
 מוכן לקחת את המשחק שלך לשלב הבא? צור קשר עם Next Level Football עוד היום וקבל ייעוץ ראשוני ללא עלות. ההזדמנות שלך לפרוץ קדימה מתחילה כאן.
 
 ### Products
-https://next-level-football-42ed9b05.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Next Level Football
 
 ### Cart
-https://next-level-football-42ed9b05.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://next-level-football-42ed9b05.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://next-level-football-42ed9b05.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://next-level-football-42ed9b05.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://next-level-football-42ed9b05.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://next-level-football-42ed9b05.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Next Level Football
 
 ### Category
-https://next-level-football-42ed9b05.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Next Level Football
 
 ### תודה רבה | Next Level Football
-https://next-level-football-42ed9b05.zappy5.app/thank-you
+https://example.com/thank-you
 הודעתך התקבלה בהצלחה. צוות Next Level Football יחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://next-level-football-42ed9b05.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://next-level-football-42ed9b05.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://next-level-football-42ed9b05.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Sports & Fitness Training
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://next-level-football-42ed9b05.zappy5.app/sitemap.xml
-- Robots: https://next-level-football-42ed9b05.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://next-level-football-42ed9b05.zappy5.app/llms-full.txt
-- Products (JSON): https://next-level-football-42ed9b05.zappy5.app/products.json
-- Products (Google Merchant RSS): https://next-level-football-42ed9b05.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
