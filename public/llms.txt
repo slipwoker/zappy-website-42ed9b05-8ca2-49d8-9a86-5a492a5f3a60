@@ -1,0 +1,109 @@
+# Next Level Football — Generative Engine Optimization Map
+
+> A sports performance and strength training service specifically designed for football players. The focus is on physical conditioning, muscle strengthening, and athletic development tailored to the unique demands of football. The brand likely emphasizes power, speed, and competitive edge for players looking to elevate their game.
+
+---
+
+## Pages
+
+### בית
+https://next-level-football-42ed9b05.zappy5.app
+הפוך לשחקן כדורגל חזק ומהיר יותר עם שיטת אימון ייחודית המותאמת לדרישות המגרש. כוח, מהירות ויתרון תחרותי מחכים לך. קבע אימון ניסיון עוד היום.
+
+### תוכניות אימון
+https://next-level-football-42ed9b05.zappy5.app/training-programs
+גלה תוכניות אימון מותאמות אישית לשחקני כדורגל, ממוקדות בפיתוח כוח מתפרץ, זריזות וסיבולת. בנה את הגוף שייתן לך את היתרון על המגרש. הצטרף עכשיו.
+
+### אודות המאמן
+https://next-level-football-42ed9b05.zappy5.app/about
+הכירו את המאמן מאחורי Next Level Football – מומחה באימוני ביצועים לכדורגל עם גישה ייחודית לחיזוק הגוף והנפש. בואו לשמוע איך נבנה יחד העתיד הספורטיבי שלך.
+
+### תוצאות וסיפורים
+https://next-level-football-42ed9b05.zappy5.app/results-stories
+שחקני כדורגל מספרים על המהפך שעברו עם Next Level Football – משיפור מהירות ועד לחיזוק ביטחון עצמי על המגרש. קרא את הסיפורים וקבל השראה להתחיל גם אתה.
+
+### צור קשר
+https://next-level-football-42ed9b05.zappy5.app/contact
+מוכן לקחת את המשחק שלך לשלב הבא? צור קשר עם Next Level Football עוד היום וקבל ייעוץ ראשוני ללא עלות. ההזדמנות שלך לפרוץ קדימה מתחילה כאן.
+
+### Products
+https://next-level-football-42ed9b05.zappy5.app/products
+המוצרים שלנו - Next Level Football
+
+### Cart
+https://next-level-football-42ed9b05.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://next-level-football-42ed9b05.zappy5.app/checkout
+תשלום
+
+### Login
+https://next-level-football-42ed9b05.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://next-level-football-42ed9b05.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://next-level-football-42ed9b05.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://next-level-football-42ed9b05.zappy5.app/product/:slug
+פרטי המוצר - Next Level Football
+
+### Category
+https://next-level-football-42ed9b05.zappy5.app/category/:slug
+מוצרים - Next Level Football
+
+### תודה רבה | Next Level Football
+https://next-level-football-42ed9b05.zappy5.app/thank-you
+הודעתך התקבלה בהצלחה. צוות Next Level Football יחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://next-level-football-42ed9b05.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://next-level-football-42ed9b05.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://next-level-football-42ed9b05.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Next Level Football
+A sports performance and strength training service specifically designed for football players. The focus is on physical conditioning, muscle strengthening, and athletic development tailored to the unique demands of football. The brand likely emphasizes power, speed, and competitive edge for players looking to elevate their game.
+
+## Target Audience
+- שחקני כדורגל
+- שחקני כדורגל מקצועיים
+- אקדמיות כדורגל לנוער
+- מאמני כדורגל
+
+## Industry
+Sports & Fitness Training
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://next-level-football-42ed9b05.zappy5.app/sitemap.xml
+- Robots: https://next-level-football-42ed9b05.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://next-level-football-42ed9b05.zappy5.app/llms-full.txt
+- Products (JSON): https://next-level-football-42ed9b05.zappy5.app/products.json
+- Products (Google Merchant RSS): https://next-level-football-42ed9b05.zappy5.app/product-feed.xml
